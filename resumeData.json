@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"M. Haseeb Hassan",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I am the one chasing excellence. Throughout my academic and professional career, I have been driven by my intellectual curiosity to find answers to most pressing questions. Whether it’s finding a perfect song for peace of mind or finding a rare product for a rocket, I’ve been able to quickly gather myself and identify a strategic solution. My intellectual curiosity also drives me to be a lifelong learner.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hacceebhassan@gmail.com",
+    "phone": "(+39) 324-795-1067",
+    "address":{
+      "street":"Via Don Minzoni,",
+      "city":"Bologna,",
+      "state":"Italy",
+      "zip": "(40012)"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hacceeb/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/haceeb_hassan",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/haceeb_hassan/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/hacceeebb",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/hacceebhassan",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"COMSATS University Islamabad (Pakistan)",
+        "degree":"BS Electrical (Telecommunication) Engineering",
+        "graduated":"July 2019"
+      }
+  ],
+    "work":[
+      {
+        "company":"Upwork & Fiverr",
+        "title":"Freelancer ",
+        "years":"December 2019 - Present",
+        "description":"Developer, Deep Learning Specialist, Data Scientist, and Technical Writer"
+      },
+      {
+        "company":"Intrax World Sialkot (Pakistan)",
+        "title":"Data Scientist",
+        "years":"September 2017 - October 2019",
+        "description":"Data Scraping, Data Modeling, Data Visualization (Dashboards), and ML-based Models Developing"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Deep Learning",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"R",
+        "level":"80%"
+      },
+      {
+        "name":"Data Scraping, Modeling and Analysis",
+        "level":"90%"
+      },
+      {
+        "name":"Data Visualization",
+        "level":"70%"
+      },
+      {
+        "name":"C/C++",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Deep Learning",
+        "category":"My Projects related to Artificial Intelligence, Machine Learning and Deep Learning",
+        "image":"deep-learning.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Data Visualization",
+        "category":"The Projects based upon Data Visualization",
+        "image":"data-visualization.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Data Scraping and Analysis",
+        "category":"Big Data Scraping and Analysis Projects",
+        "image":"data-analysis.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Python, R and C/C++",
+        "category":"Project related to different programmig languages",
+        "image":"python_r_c.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"MATLAB",
+        "category":"MATLAB based projects",
+        "image":"matlab.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
