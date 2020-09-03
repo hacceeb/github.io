@@ -1,4 +1,5 @@
 {
+  "homepage": "http://hacceeb.github.io/hacceeb.github.io",
   "name": "hacceeb",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "hacceeb.github.io -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
